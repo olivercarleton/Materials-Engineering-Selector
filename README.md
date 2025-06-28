@@ -1,0 +1,1 @@
+This program lets users compare engineering metals by inputting properties for selected materials. It displays a reference data table, generates stress-strain plots, calculates MOR, toughness, and specific strength, and produces comparison charts. Results are saved in a summary .txt file.
